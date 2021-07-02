@@ -13,7 +13,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-For my second milestone, I finished my laser turret. I put two servo motors on top of each other so that the laser could move up, down, left, and right. 
+For my second milestone, I finished my laser turret. I put two servo motors on top of each other so that the laser could move up, down, left, and right. The laser is on top of one of the servo motors which 
 [image](https://user-images.githubusercontent.com/72290296/124308066-8e211780-db1d-11eb-8ded-237ea85fb7a3.png)
 
 
